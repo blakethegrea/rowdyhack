@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>rowdy hacking</title>
+    <link href="https://blakethegrea.github.io/rowdyhack/feed.xml" rel="self" />
+    <link href="https://blakethegrea.github.io/rowdyhack" />
+    <updated>2020-03-28T15:22:28-05:00</updated>
+    <author>
+        <name>blake</name>
+    </author>
+    <id>https://blakethegrea.github.io/rowdyhack</id>
+
+    <entry>
+        <title>yo</title>
+        <author>
+            <name>blake</name>
+        </author>
+        <link href="https://blakethegrea.github.io/rowdyhack/yo.html"/>
+        <id>https://blakethegrea.github.io/rowdyhack/yo.html</id>
+
+        <updated>2020-03-28T15:15:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                    wadup
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                wadup
+            ]]>
+        </content>
+    </entry>
+</feed>

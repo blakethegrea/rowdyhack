@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "rowdy hacking",
+    "description": "",
+    "home_page_url": "https://blakethegrea.github.io/rowdyhack",
+    "feed_url": "https://blakethegrea.github.io/rowdyhack/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "blake"
+    },
+    "items": [
+        {
+            "id": "https://blakethegrea.github.io/rowdyhack/yo.html",
+            "url": "https://blakethegrea.github.io/rowdyhack/yo.html",
+            "title": "yo",
+            "summary": "wadup",
+            "content_html": "wadup",
+            "author": {
+                "name": "blake"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-28T15:15:16-05:00",
+            "date_modified": "2020-03-28T15:15:16-05:00"
+        }
+    ]
+}
